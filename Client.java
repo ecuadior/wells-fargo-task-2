@@ -1,4 +1,4 @@
-src/
+entity/ 
 package com.wellsfargo.counselor.entity;
 
 
